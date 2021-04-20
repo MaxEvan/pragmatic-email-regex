@@ -1,6 +1,6 @@
 {
   "name": "pragmatic-email-regex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple, pragmatic email regex validator.",
   "main": "dist/index.js",
   "keywords": [
