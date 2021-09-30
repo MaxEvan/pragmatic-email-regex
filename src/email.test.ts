@@ -17,12 +17,8 @@ const validEmails = [
   'example-indeed@strange-example.com',
   "#!$%&'*+-/=?^_`{}|~@example.org",
   'example@s.solutions',
-  'xn--80ahgue5b@xn--p-8sbkgc5ag7bhce.xn--ba-lmcq',
   'nothing@xn--fken-gra.no',
-  'me.@example.com',
-  'me.@example.test.com.tw',
-  '.me@example.com',
-  'john..doe@example.com',
+  'bodybaba@juju.cc.ca',
 ];
 
 const invalidEmails = [
